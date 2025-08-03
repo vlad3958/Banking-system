@@ -8,7 +8,6 @@ A secure banking application built with ASP.NET Core Web API, Entity Framework C
 - **Framework**: ASP.NET Core 9.0 Web API
 - **Database**: SQL Server with Entity Framework Core 9.0
 - **Authentication**: ASP.NET Core Identity + JWT Bearer tokens
-- **Object Mapping**: AutoMapper
 - **Testing**: xUnit, Moq,
 
 ### Security Features
@@ -17,7 +16,7 @@ A secure banking application built with ASP.NET Core Web API, Entity Framework C
 - Password hashing and validation
 - Secure API endpoints
 
-## 🏛️ Architecture & Design Choices
+##  Architecture & Design Choices
 
 ### Project Structure
 ```
